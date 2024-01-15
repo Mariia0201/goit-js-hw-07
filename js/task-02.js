@@ -27,7 +27,6 @@ const images = [
     alt: 'Zebras on Zebra',
   },
 ];
-
 const galleryEl = document.querySelector('.gallery')
 
 const createMarkup = images.map((image) => `

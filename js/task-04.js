@@ -1,3 +1,4 @@
+
 const loginForm = document.querySelector('.login-form');
 
 loginForm.addEventListener('submit', function (event) {
@@ -23,9 +24,3 @@ loginForm.addEventListener('submit', function (event) {
     loginForm.reset(); // Очищення значень полів форми
   }
 });
-
-
-
-
-
-    

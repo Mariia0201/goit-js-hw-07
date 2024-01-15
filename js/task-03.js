@@ -11,4 +11,3 @@ function checkName() {
 }
 
 inputContent.addEventListener('input', checkName);
-
